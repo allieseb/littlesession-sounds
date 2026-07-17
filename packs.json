@@ -8,5 +8,39 @@
     "sha256": "ee51d2c4b1525e70f19a45909c4fd7a2e26d91d115fa89dbf5a6bc413d8b9bf3",
     "license": "MIT (Frank Wen, Michael Cowgill, S. Christian Collins et al.)"
   },
-  "packs": []
+  "packs": [
+    {
+      "id": "mandolin",
+      "name": "Mandolin HQ",
+      "file": "mandolin_v1.sf2",
+      "url": "https://github.com/allieseb/littlesession-sounds/releases/download/v1/mandolin_v1.sf2",
+      "bytes": 14518388,
+      "sha256": "fbdcf072794b51082e5d32422981bb6e2806bcf7a40b4e61a416b0f2680888b7",
+      "license": "CC0 (Plucked Strings Font)",
+      "credit": "Plucked Strings Font — MuseScore community",
+      "group": "strings"
+    },
+    {
+      "id": "guitar",
+      "name": "Guitar HQ",
+      "file": "guitar_v1.sf2",
+      "url": "https://github.com/allieseb/littlesession-sounds/releases/download/v1/guitar_v1.sf2",
+      "bytes": 21844854,
+      "sha256": "f729027d9985247f90ed23a96a9f462059eacc67e51fbf703c9c9e62f8d1244a",
+      "license": "CC0 (Plucked Strings Font)",
+      "credit": "Plucked Strings Font — MuseScore community",
+      "group": "strings"
+    },
+    {
+      "id": "piano",
+      "name": "Piano HQ",
+      "file": "piano_v1.sf2",
+      "url": "https://github.com/allieseb/littlesession-sounds/releases/download/v1/piano_v1.sf2",
+      "bytes": 255549438,
+      "sha256": "9474660d104461092a206f1ef16cf8d97b54fc5e91b62070d3db83b5107539ec",
+      "license": "CC0 (VCSL)",
+      "credit": "VCSL — Versilian Studios",
+      "group": "piano"
+    }
+  ]
 }
