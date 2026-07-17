@@ -14,8 +14,8 @@
       "name": "Mandolin HQ",
       "file": "mandolin_v1.sf2",
       "url": "https://github.com/allieseb/littlesession-sounds/releases/download/v1/mandolin_v1.sf2",
-      "bytes": 14518388,
-      "sha256": "fbdcf072794b51082e5d32422981bb6e2806bcf7a40b4e61a416b0f2680888b7",
+      "bytes": 14518732,
+      "sha256": "c6faa0a6d2069b1bd7453a6311e6c0795ecdeefa672ca1ef299302cb5a77c72b",
       "license": "CC0 (Plucked Strings Font)",
       "credit": "Plucked Strings Font — MuseScore community",
       "group": "strings"
@@ -25,8 +25,8 @@
       "name": "Guitar HQ",
       "file": "guitar_v1.sf2",
       "url": "https://github.com/allieseb/littlesession-sounds/releases/download/v1/guitar_v1.sf2",
-      "bytes": 21844854,
-      "sha256": "f729027d9985247f90ed23a96a9f462059eacc67e51fbf703c9c9e62f8d1244a",
+      "bytes": 21845214,
+      "sha256": "92126bbf45d04bccb93b436733b7ae96acb1ebbd80fae4f5f4d5f12e463b8bb9",
       "license": "CC0 (Plucked Strings Font)",
       "credit": "Plucked Strings Font — MuseScore community",
       "group": "strings"
@@ -36,11 +36,22 @@
       "name": "Piano HQ",
       "file": "piano_v1.sf2",
       "url": "https://github.com/allieseb/littlesession-sounds/releases/download/v1/piano_v1.sf2",
-      "bytes": 255549438,
-      "sha256": "9474660d104461092a206f1ef16cf8d97b54fc5e91b62070d3db83b5107539ec",
+      "bytes": 255549942,
+      "sha256": "916eb73de7bde2da178c34dfe5806745ada13305ef7ae0dce395142a466432a0",
       "license": "CC0 (VCSL)",
       "credit": "VCSL — Versilian Studios",
       "group": "piano"
+    },
+    {
+      "id": "bouzouki",
+      "name": "Irish Bouzouki HQ (beta)",
+      "file": "bouzouki_v1.sf2",
+      "url": "http://192.168.86.166:8765/bouzouki_v1.sf2",
+      "bytes": 45561168,
+      "sha256": "c88604b85e4a7383674de0af63689796e946e9e0be34b87850bcc4ecb1a2871a",
+      "license": "evaluation only - pending artist permission (not distributed)",
+      "credit": "pending",
+      "group": "strings"
     }
   ]
 }
