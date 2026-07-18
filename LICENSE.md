@@ -17,6 +17,13 @@ dedication). Source: Plucked Strings Font, MuseScore community
 mandolin preset ("OM Oval") and also voices the mandola and cittern in the
 app.
 
+## Button Accordion HN — FreePats project (CC0)
+
+`accordion_v1.sf2` — CC0 (public domain dedication).
+Source: Button Accordion HN, FreePats project
+(github.com/freepats/button-accordion-HN). Samples of a Hohner button
+accordion recorded by Jeff Stauffer; sound bank by michael02022.
+
 ## VCSL — Versilian Studios (CC0)
 
 `piano_v1.sf2` — CC0 (public domain dedication).

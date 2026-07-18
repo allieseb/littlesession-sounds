@@ -43,6 +43,17 @@
       "group": "piano"
     },
     {
+      "id": "accordion",
+      "name": "Button Accordion HQ",
+      "file": "accordion_v1.sf2",
+      "url": "https://github.com/allieseb/littlesession-sounds/releases/download/v1/accordion_v1.sf2",
+      "bytes": 2841306,
+      "sha256": "0711df9d44ee2467be6f3dab9c39f1625c90f6fa9940e7f7799b671fad987937",
+      "license": "CC0 (FreePats — Button Accordion HN)",
+      "credit": "Button Accordion HN — FreePats project, samples Jeff Stauffer",
+      "group": "accordion"
+    },
+    {
       "id": "bouzouki",
       "name": "Irish Bouzouki HQ",
       "file": "bouzouki_v1.sf2",
