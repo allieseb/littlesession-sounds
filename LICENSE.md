@@ -11,8 +11,11 @@ contributors to the MuseScore General soundfont project.
 
 ## Plucked Strings Font (CC0)
 
-`mandolin_v1.sf2`, `guitar_v1.sf2` — CC0 (public domain dedication).
-Source: Plucked Strings Font, MuseScore community (musescore.org node 23225).
+`mandolin_v1.sf2`, `guitar_v1.sf2`, `bouzouki_v1.sf2` — CC0 (public domain
+dedication). Source: Plucked Strings Font, MuseScore community
+(musescore.org node 23225). `bouzouki_v1.sf2` is built from the octave
+mandolin preset ("OM Oval") and also voices the mandola and cittern in the
+app.
 
 ## VCSL — Versilian Studios (CC0)
 

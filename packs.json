@@ -44,13 +44,13 @@
     },
     {
       "id": "bouzouki",
-      "name": "Irish Bouzouki HQ (beta)",
+      "name": "Irish Bouzouki HQ",
       "file": "bouzouki_v1.sf2",
-      "url": "http://192.168.86.166:8765/bouzouki_v1.sf2",
-      "bytes": 45561168,
-      "sha256": "c88604b85e4a7383674de0af63689796e946e9e0be34b87850bcc4ecb1a2871a",
-      "license": "evaluation only - pending artist permission (not distributed)",
-      "credit": "pending",
+      "url": "https://github.com/allieseb/littlesession-sounds/releases/download/v1/bouzouki_v1.sf2",
+      "bytes": 19411928,
+      "sha256": "08503ebbba98fb233a1a2e17e5e9bb690668c5606e06baccc7d774b9735ecae1",
+      "license": "CC0 (Plucked Strings Font)",
+      "credit": "Plucked Strings Font — MuseScore community",
       "group": "strings"
     }
   ]
