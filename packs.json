@@ -56,12 +56,12 @@
     {
       "id": "bouzouki",
       "name": "Irish Bouzouki HQ",
-      "file": "bouzouki_v1.sf2",
-      "url": "https://github.com/allieseb/littlesession-sounds/releases/download/v1/bouzouki_v1.sf2",
-      "bytes": 19411928,
-      "sha256": "08503ebbba98fb233a1a2e17e5e9bb690668c5606e06baccc7d774b9735ecae1",
-      "license": "CC0 (Plucked Strings Font)",
-      "credit": "Plucked Strings Font — MuseScore community",
+      "file": "bouzouki_v2.sf2",
+      "url": "https://github.com/allieseb/littlesession-sounds/releases/download/v1/bouzouki_v2.sf2",
+      "bytes": 45561356,
+      "sha256": "9456bddfa80ea8a7bec49c8af23ea8b4dad2d19fdb6d5a314249322d8a4b542d",
+      "license": "Free / pay-as-you-feel — redistributed with written permission",
+      "credit": "Irish Bouzouki « Woody » — Eamon Coughlan (youtube.com/@EamonCoughlan), luthier Daniel Hoban",
       "group": "strings"
     }
   ]
